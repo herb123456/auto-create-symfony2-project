@@ -1,2 +1,2 @@
-gedmo/doctrine-extensions
-gregwar/captcha-bundle
+gedmo/doctrine-extensions:dev-master
+gregwar/captcha-bundle:dev-master
